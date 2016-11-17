@@ -1,0 +1,4 @@
+Success and max_trials :
+
+{'self.max_trials': 100, 'self.success': 17}
+
